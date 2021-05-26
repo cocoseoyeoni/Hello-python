@@ -1,0 +1,2 @@
+print("hello world!") #hello world를 출력하는 출력문
+print("안녕 파이썬") #안녕 파이썬이라는 문장을 출력하는 출력문
