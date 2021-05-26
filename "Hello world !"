@@ -1,2 +1,9 @@
+#print("Hello World!")
+print("안녕 세계야!")   #출력문 기초
+print(1+2)
+print(2-1)
+print(2*3)
+print(3/3)
+
 print("hello world!") #hello world를 출력하는 출력문
 print("안녕 파이썬") #안녕 파이썬이라는 문장을 출력하는 출력문
